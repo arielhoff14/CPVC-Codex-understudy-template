@@ -19,7 +19,7 @@ After STOP 1, help the student propose and approve the six TARGET lines and one 
 
 ## My standing rule
 
-[One observable, student-approved rule that protects this project's purpose or experience.]
+Every optimized weekly schedule must retain all fixed class and club commitments and show at least one self-care block; a self-care block may move only when a higher-importance, more time-sensitive task needs its time.
 
 ## Workflow
 
